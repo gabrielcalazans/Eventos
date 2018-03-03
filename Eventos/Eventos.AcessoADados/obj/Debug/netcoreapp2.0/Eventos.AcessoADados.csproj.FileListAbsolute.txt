@@ -1,0 +1,9 @@
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.deps.json
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.dll
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.csprojResolveAssemblyReference.cache
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.csproj.CoreCompileInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.AssemblyInfoInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.AssemblyInfo.cs
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.pdb
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.dll
+C:\Cedro\Eventos\Eventos\Eventos.AcessoADados\obj\Debug\netcoreapp2.0\Eventos.AcessoADados.pdb

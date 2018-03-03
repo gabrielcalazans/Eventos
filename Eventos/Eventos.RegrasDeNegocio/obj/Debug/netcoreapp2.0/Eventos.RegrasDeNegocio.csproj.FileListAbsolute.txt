@@ -1,0 +1,11 @@
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.csproj.CoreCompileInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.AssemblyInfoInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.AssemblyInfo.cs
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.deps.json
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.dll
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.pdb
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.dll
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.pdb
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.dll
+C:\Cedro\Eventos\Eventos\Eventos.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.pdb

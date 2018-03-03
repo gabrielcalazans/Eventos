@@ -1,0 +1,15 @@
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.App.deps.json
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.App.runtimeconfig.json
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.App.runtimeconfig.dev.json
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.App.dll
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.App.pdb
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.dll
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.dll
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.pdb
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.RegrasDeNegocio.pdb
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.csprojResolveAssemblyReference.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.csproj.CoreCompileInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.AssemblyInfoInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.AssemblyInfo.cs
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.dll
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.App.pdb

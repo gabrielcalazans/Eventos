@@ -1,0 +1,5 @@
+C:\Cedro\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.0\Eventos.AcessoADados.dll
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csprojResolveAssemblyReference.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfoInputs.cache
+C:\Cedro\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.0\Eventos.AssemblyInfo.cs
